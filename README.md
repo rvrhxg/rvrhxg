@@ -1,6 +1,6 @@
 # rvrhxg · Python Backend
 
-Портфолио самостоятельных учебных проектов: REST API, транзакции, моделирование данных и автоматические проверки. Основной стек — Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, aiogram, pytest и Docker.
+Портфолио самостоятельных проектов: REST API, транзакции, моделирование данных и автоматические проверки. Основной стек — Python, FastAPI, SQLAlchemy, Alembic, PostgreSQL, aiogram, pytest и Docker.
 
 ## Python-проекты
 
